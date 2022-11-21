@@ -1,4 +1,5 @@
 *.iml
 *out
 *.idea
-*.txt
+basket.txt
+basket.bin
