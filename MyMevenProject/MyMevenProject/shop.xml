@@ -1,0 +1,20 @@
+<config>
+    <load>
+        <enabled>
+            <fileName>basket.json</fileName>
+            <format>json</format>
+        </enabled>
+    </load>
+
+    <save>
+        <enalbed>true</enalbed>
+        <fileName>basket.json</fileName>
+        <format>json</format>
+    </save>
+
+    <log>
+        <enabled>true</enabled>
+        <fileName>client.csv</fileName>
+    </log>
+
+</config>
